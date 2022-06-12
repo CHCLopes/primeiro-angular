@@ -1,0 +1,10 @@
+p{
+  color:blueviolet;
+  font-size: 30px;
+  margin: 2px;
+}
+
+section {
+  display: table;
+}
+
